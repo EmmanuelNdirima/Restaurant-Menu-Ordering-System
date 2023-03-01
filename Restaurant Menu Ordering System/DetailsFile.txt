@@ -2,3 +2,4 @@
 2. Ahmed Aden Noor 21/04423
 
 The code was typed and implemented using Neatbeans IDE
+The project has an addition of entering the date while processing the bill
